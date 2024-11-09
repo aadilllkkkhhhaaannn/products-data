@@ -1,7 +1,7 @@
 const product = [
   {
     id: "1",
-    img: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/j/b/q/-original-imagy3k8xjfjhm4d.jpeg?q=70",
+    img: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/z/z/h/xl-battle-beast-mens-printed-oversized-t-shirt-battlebeast-original-imah4c2twys4stdg.jpeg?q=70",
     name: "Puma",
     price: 679,
     description: "Ess Polo T-shirt",

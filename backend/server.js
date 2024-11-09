@@ -10,7 +10,7 @@ const connectDB = require("./config/db_config");
 const app = express();
 app.use(
   cors({
-    origin: "*", // Allow all origins for testing purposes
+    origin: "*",
   })
 );
 
