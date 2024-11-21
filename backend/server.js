@@ -78,7 +78,7 @@ app.use(
 // OR for specific domain:
 app.use(
   cors({
-    origin: "http://localhost:5173", // Allow only this domain
+    origin: "http://localhost:2323", // Allow only this domain
   })
 );
 
